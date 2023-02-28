@@ -1,0 +1,29 @@
+{
+  "name": "labecommerce-backend",
+  "version": "1.0.0",
+  "description": "Projeto de Backend Labenu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "name1": "clear && node index.js Danilo",
+    "pedra": "clear && node pedra-papel-tesoura.js pedra",
+    "papel": "clear && node pedra-papel-tesoura.js papel",
+    "tesoura": "clear && node pedra-papel-tesoura.js tesoura"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilojosesilva/Labecommerce-Backend.git"
+  },
+  "keywords": [
+    "npm",
+    "labecommerce",
+    "backend"
+  ],
+  "author": "Danilo José Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilojosesilva/Labecommerce-Backend/issues"
+  },
+  "homepage": "https://github.com/danilojosesilva/Labecommerce-Backend#readme"
+}
